@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'andalibweb'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4e33794095b24ad4a45d39a7f41ba4eb }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_9b82584c451f4a509944457375e132e3 }}
